@@ -5,5 +5,5 @@
 - 🤔 I’m looking for help with learning Java.
 - 💬 Ask me about my personal project.
 - 📫 How to reach me: kalynsmith17@gmail.com
-- 😄 Pronouns: she/her
+- 😄 Pronouns: She/Her
 
